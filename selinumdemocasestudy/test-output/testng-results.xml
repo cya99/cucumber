@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44589" started-at="2019-11-22T03:51:41Z" finished-at="2019-11-22T03:52:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44589" started-at="2019-11-22T03:51:41Z" finished-at="2019-11-22T03:52:26Z">
+      <class name="seldemos1.NewTest59">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:seldemos1.NewTest59@7cf10a6f]" name="beforeTest" is-config="true" duration-ms="9633" started-at="2019-11-22T09:21:41Z" finished-at="2019-11-22T09:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="registration()[pri:0, instance:seldemos1.NewTest59@7cf10a6f]" name="registration" duration-ms="17094" started-at="2019-11-22T09:21:51Z" finished-at="2019-11-22T09:22:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:seldemos1.NewTest59@7cf10a6f]" name="getResult" is-config="true" duration-ms="23" started-at="2019-11-22T09:22:08Z" finished-at="2019-11-22T09:22:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=registration status=SUCCESS method=NewTest59.registration()[pri:0, instance:seldemos1.NewTest59@7cf10a6f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:seldemos1.NewTest59@7cf10a6f]" name="testLogin" duration-ms="2097" started-at="2019-11-22T09:22:08Z" finished-at="2019-11-22T09:22:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:seldemos1.NewTest59@7cf10a6f]" name="getResult" is-config="true" duration-ms="0" started-at="2019-11-22T09:22:10Z" finished-at="2019-11-22T09:22:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLogin status=SUCCESS method=NewTest59.testLogin()[pri:0, instance:seldemos1.NewTest59@7cf10a6f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="testCart()[pri:0, instance:seldemos1.NewTest59@7cf10a6f]" name="testCart" duration-ms="6267" started-at="2019-11-22T09:22:10Z" finished-at="2019-11-22T09:22:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCart -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:seldemos1.NewTest59@7cf10a6f]" name="getResult" is-config="true" duration-ms="0" started-at="2019-11-22T09:22:16Z" finished-at="2019-11-22T09:22:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCart status=SUCCESS method=NewTest59.testCart()[pri:0, instance:seldemos1.NewTest59@7cf10a6f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="testPayment()[pri:0, instance:seldemos1.NewTest59@7cf10a6f]" name="testPayment" duration-ms="8934" started-at="2019-11-22T09:22:16Z" finished-at="2019-11-22T09:22:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPayment -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:seldemos1.NewTest59@7cf10a6f]" name="getResult" is-config="true" duration-ms="1" started-at="2019-11-22T09:22:25Z" finished-at="2019-11-22T09:22:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPayment status=SUCCESS method=NewTest59.testPayment()[pri:0, instance:seldemos1.NewTest59@7cf10a6f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:seldemos1.NewTest59@7cf10a6f]" name="afterTest" is-config="true" duration-ms="512" started-at="2019-11-22T09:22:25Z" finished-at="2019-11-22T09:22:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- seldemos1.NewTest59 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
